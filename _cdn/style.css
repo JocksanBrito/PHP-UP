@@ -44,3 +44,48 @@
     color: #fff;
     background-color: #d36833;
 }
+
+.main_cta {
+    width: 100%;
+    background-color: #2d3142;
+    background-image: url('../img/bg_main_home.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.main_cta .main_cta_content {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.main_cta .main_cta_content h1 {
+    font-size: 3em;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+}
+
+.main_cta .main_cta_content p {
+    font-size: 1.875em;
+    color: #fff;
+    font-weight: 300;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.main_cta .main_cta_content .btn {
+    background-color: #d36833;
+    color: #fff;
+    font-size: 0.8em;
+    padding: 10px 40px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.main_cta .main_cta_content .main_cta_content_spacer {
+    margin: 0 auto;
+    max-width: 1300px;
+    padding: 160px 40px;
+}
