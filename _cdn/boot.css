@@ -7,4 +7,7 @@
     font-weight: 400;
 }
   
-  
+.ds_none {
+    display: none !important;
+}
+
